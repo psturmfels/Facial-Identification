@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Leonardo Di Caprio",
+		"userData": "someData",
+		"faces": [
+			"http://i.dailymail.co.uk/i/pix/2015/07/14/18/2A8604AD00000578-3161155-Generous_Actor_Leonardo_DiCaprio_has_donated_15_million_to_envir-m-92_1436895717019.jpg",
+			"http://static.parade.com/wp-content/uploads/2016/01/LeoD.Cover-FTR.jpg",
+			"http://cdn4.thr.com/sites/default/files/2014/11/leonardo_dicaprio.jpg"
+		]
+	},
+	{
+		"name": "Kate Winslet",
+		"userData": "someData",
+		"faces": [
+			"http://www.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228195317-634.2.Kate-Winslet-Oscar-2016-Hair-Tutorial.jpg",
+			"http://media4.s-nbcnews.com/j/newscms/2015_39/1233106/150922-leonardo-dicaprio-jsw-215p_99fc616c8765f4c4cd6b80ce4ac761e7.nbcnews-fp-1200-800.jpg",
+			"http://img2.timeinc.net/people/i/2015/news/150323/kate-winslet-2-1024.jpg"
+			]
+	},
+	{
+		"name": "Anne Hathaway",
+		"userData": "someData",
+		"faces": [
+			"http://pixel.nymag.com/imgs/daily/vulture/2015/08/18/18-anne-hathaway.w529.h529.jpg",
+			"http://www.hdwallpapers.in/walls/anne_hathaway_3-normal.jpg",
+			"http://www.eonline.com/resize/300/484/www.eonline.com/eol_images/Entire_Site/2013027/reg_634.anne.cm.12913_copy.jpg"
+		]
+	},
+	{
+		"name": "Joseph Gordon-Levitt",
+		"userData": "someData",
+		"faces": [
+			"http://news.doddleme.com/wp-content/uploads/2013/06/premium-rush-premiere-joseph-gordon-levitt-59f62cf4a5fb1ba6.jpg",
+			"https://upload.wikimedia.org/wikipedia/commons/7/7d/Joseph_Gordon-Levitt_2013.jpg",
+			"http://jewishcurrents.org/wp-content/uploads/2016/02/e0f3f31995ea054f_JGLTop.xxxlarge.jpg"
+		]
+	}
+]
