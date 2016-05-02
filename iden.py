@@ -171,6 +171,7 @@ def identify(personGroupId, identification_file, key):
                 print(response.status)
                 pretty(json.loads(data))
             data = json.loads(data)
+            print(data)
             for item in data:
                 faceIds.append(item['faceId'])
                 faceRectangles.append(item['faceRectangle'])
