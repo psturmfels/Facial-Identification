@@ -25,7 +25,7 @@ def init_from_file(personGroupId, training_file, key):
 
     headers = {
         'Content-Type': 'application/json',
-        'Ocp-Apim-Subscription-Key': 'f5d9612fa9744f83b8acea571d232ad9'
+        'Ocp-Apim-Subscription-Key': key
     }
 
     body = '{name: "' + personGroupId + '", userData: "someData"}'
@@ -146,7 +146,7 @@ def identify(personGroupId, identification_file, key):
         if not personId:
             sys.exit("ID '" + personId + "' was not found!")
         return name
-    
+
     identification_set = json.load(open(identification_file))
     current_url = 1
     headers = {
@@ -204,4 +204,3 @@ def identify(personGroupId, identification_file, key):
             conn.close()
         except Exception as e:
             print("[Errno {0}] {1}".format(e.errno, e.strerror))
-
